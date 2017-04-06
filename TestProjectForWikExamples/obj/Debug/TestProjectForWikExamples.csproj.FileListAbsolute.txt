@@ -1,0 +1,6 @@
+C:\repos\TestProjectForWikExamples\TestProjectForWikExamples\bin\Debug\TestProjectForWikExamples.exe.config
+C:\repos\TestProjectForWikExamples\TestProjectForWikExamples\bin\Debug\TestProjectForWikExamples.exe
+C:\repos\TestProjectForWikExamples\TestProjectForWikExamples\bin\Debug\TestProjectForWikExamples.pdb
+C:\repos\TestProjectForWikExamples\TestProjectForWikExamples\obj\Debug\TestProjectForWikExamples.csprojResolveAssemblyReference.cache
+C:\repos\TestProjectForWikExamples\TestProjectForWikExamples\obj\Debug\TestProjectForWikExamples.exe
+C:\repos\TestProjectForWikExamples\TestProjectForWikExamples\obj\Debug\TestProjectForWikExamples.pdb
